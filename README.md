@@ -7,7 +7,8 @@ Test Driven Development Practice
 =========== RAW CODE =============
 
 
-namespace StringCalculatorTest
+namespace 
+StringCalculatorTest
 {
     public class Fibonacci
     {
